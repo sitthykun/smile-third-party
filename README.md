@@ -1,2 +1,2 @@
-# smile-thirst-party
-Thirst party application which support for some smile team projects
+# smile-third-party
+Third party application which support for some smile team projects
